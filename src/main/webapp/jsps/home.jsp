@@ -10,7 +10,7 @@
 </head>
 <body>
 <h1 align="center">Welcome to mahesh babu . Anantapur,AP </h1>
-<h1 align="center"> Mahesh become a software devloper-DevOps with AWS engineer,No one Needs u fight Alone otherwise kill u r self stay single stay healthy tc of u r self and who trust u tc them also </h1>
+<h1 align="center"> Mahesh become a software devloper-DevOps with AWS engineer,No one Needs u fight Alone otherwise kill u r self stay single stay healthy tc of u r self and who trust u tc them also tc u r family first of all</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
